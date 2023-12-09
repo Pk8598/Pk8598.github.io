@@ -85,36 +85,36 @@ author:
   bio              : "Homo sapien"
   location         : "Karnataka, India"
   employer         : "Qualcomm"
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  # googlescholar    : "http://yourfullgooglescholarurl.com"
   email            : "praveenpkn555@gmail.com"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  uri              :
-  bitbucket        :
-  codepen          :
-  dribbble         :
-  flickr           :
-  facebook         :
-  foursquare       :
+  # researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  # uri              :
+  # bitbucket        :
+  # codepen          :
+  # dribbble         :
+  # flickr           :
+  # facebook         :
+  # foursquare       :
   github           : "Pk8598"
-  google_plus      :
-  keybase          :
-  instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
-  lastfm           :
+  # google_plus      :
+  # keybase          :
+  # instagram        : 
+  # impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  # lastfm           :
   linkedin         : "https://www.linkedin.com/in/pk8598/"
-  orcid            : "http://orcid.org/yourorcidurl"
-  pinterest        :
-  soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
-  steam            :
-  tumblr           :
-  twitter          : "replacethistwitterhandle"
-  vine             :
-  weibo            :
-  xing             :
-  youtube          :
-  wikipedia        :
+  # orcid            : "http://orcid.org/yourorcidurl"
+  # pinterest        :
+  # soundcloud       :
+  # stackoverflow    : # http://stackoverflow.com/users/123456/username
+  # steam            :
+  # tumblr           :
+  # twitter          : "replacethistwitterhandle"
+  # vine             :
+  # weibo            :
+  # xing             :
+  # youtube          :
+  # wikipedia        :
 
 
 # Reading Files
