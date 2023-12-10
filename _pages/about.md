@@ -11,6 +11,11 @@ redirect_from:
 
 🧑‍💻 I'm a modem system engineer in [Qualcomm wireless R&D group](https://www.qualcomm.com/)
 
-📚 I have completed my MS in wireless communication from [IIT Dharwad](https://www.iitdh.ac.in/)
+📚 I have completed my **MS** in wireless communication from [IIT Dharwad](https://www.iitdh.ac.in/)
 
-📝 My research interests lies in the conjunction of wireless communication & deep learning
+📝 My research interests lies in the conjunction of **wireless communication & deep learning**
+
+<p float="left">
+  <img width="720" height="500" src="../images/AI%20to%20Wireless.jpg">
+  <img width="660" height="500" src="../images/Deep-Learning-Applications-in-Wireless-Communications-Systems.png">
+</p>
