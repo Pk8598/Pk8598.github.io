@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: :wave: "Hello there, welcome to my page"
+title: ":wave: Hello there, welcome to my page"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
