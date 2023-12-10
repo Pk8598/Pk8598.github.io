@@ -17,5 +17,4 @@ redirect_from:
 
 <p float="left">
   <img width="720" height="500" src="../images/AI%20to%20Wireless.jpg">
-  <img width="660" height="500" src="../images/Deep-Learning-Applications-in-Wireless-Communications-Systems.png">
 </p>
